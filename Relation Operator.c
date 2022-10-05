@@ -19,12 +19,12 @@ int main()
   printf("\t y <= x : %d\n\n", y <= x);
 
   printf("Greater Than (>) operator: \n ");
-  printf("\t x > y %d\n", x > y);
-  printf("\t y > x %d\n\n", y > x);
+  printf("\t x > y : %d\n", x > y);
+  printf("\t y > x : %d\n\n", y > x);
 
   printf("Greater Than Or Equal To (>=) operator: \n");
-  printf("\t x >= y %d\n", x >= y);
-  printf("\t y >= x %d\n\n", y >= x);
+  printf("\t x >= y : %d\n", x >= y);
+  printf("\t y >= x : %d\n\n", y >= x);
 
   printf(" Equal to (==) To operator: \n");
   printf("\t x == y: %d\n\n", y == x);
