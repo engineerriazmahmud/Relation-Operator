@@ -27,11 +27,11 @@ int main()
   printf("\t y >= x : %d\n\n", y >= x);
 
   printf(" Equal to (==) To operator: \n");
-  printf("\t x == y: %d\n\n", y == x);
+  printf("\t x == y: %d\n", y == x);
   printf("\t y == z: %d\n\n", y == x);
 
   printf("Not Equal To (!=) operator: \n");
-  printf("\t x != y : %d\n\n", y != x);
+  printf("\t x != y : %d\n", y != x);
   printf("\t y != z : %d\n\n", z != y);
 
   return 0;
